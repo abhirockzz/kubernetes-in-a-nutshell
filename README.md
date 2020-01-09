@@ -1,7 +1,5 @@
 # Kubernetes in a Nutshell
 
-![](k8s.png)
-
 ## List of blogs
 
 - Kubernetes Stateless apps - [Beyond Pods: How to orchestrate stateless apps in Kubernetes?](https://dev.to/itnext/stateless-apps-in-kubernetes-beyond-pods-4p52)
